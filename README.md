@@ -1,4 +1,4 @@
-#[Python] ML Regression model to predict used cars prices
+# [Python] ML Regression model to predict used cars prices
 ## Aim
 The aim of this projects is to solve the problem of predicting the price of a used car using supervised machine learning techniques, using Scikit-Learn libraries with Pandas and Seaborn libraries to help prepare and visualize the data. As it is clear from the beginning, it is a regression problem, where we will be using linear regression algorithm and will compare its effectiveness with Lasso, Ridge and ElasticNet regression algorithms to see which produces best results using r2 and Mean Squared Error scoring metrics.
 
